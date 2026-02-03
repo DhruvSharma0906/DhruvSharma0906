@@ -11,13 +11,11 @@
 
 ![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvSharma0906&theme=dark&include_all_commits=true)
 
-![Dhruv's Streak Stats](https://github-readme-stats.vercel.app/api/streak-stats?username=DhruvSharma0906&theme=dark)
+![Dhruv's Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=DhruvSharma0906&theme=dark)
 
 ![Dhruv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSharma0906&theme=dark&layout=compact)
 
 ---
 
-## 👀 Visitor Count
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DhruvSharma0906.DhruvSharma0906)
 
